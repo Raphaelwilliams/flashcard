@@ -13,5 +13,26 @@
      justify-content: space-between;
 }
 
+/* códig/* código omitido */
+
+#container {
+    display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     padding: 4rem;
+}
+
+/* código omitido */
+o omitido */
+
 /* código omitido */
 
+#container {
+    display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     padding: 4rem;
+     gap: 3rem;
+}
+
+/* código omitido */
